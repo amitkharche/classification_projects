@@ -1,0 +1,1001 @@
+Age,Department,JobRole,Education,JobSatisfaction,MonthlyIncome,TotalWorkingYears,YearsAtCompany,OverTime,Attrition
+56,Sales,Sales Executive,4,3,6687,4,16,Yes,No
+46,HR,Engineer,4,4,19980,26,15,No,No
+32,Sales,Sales Executive,2,3,11837,24,1,No,No
+25,R&D,HR Specialist,2,3,17955,7,19,No,No
+38,HR,Engineer,3,1,14281,0,19,Yes,Yes
+56,HR,HR Specialist,4,4,16917,19,13,Yes,No
+36,HR,Sales Executive,4,3,7757,22,2,No,No
+40,HR,HR Specialist,3,4,16045,31,11,Yes,No
+28,R&D,Engineer,1,1,11912,10,7,No,No
+28,HR,Manager,3,3,7733,38,1,Yes,No
+41,HR,HR Specialist,5,1,10081,23,3,No,No
+53,Sales,HR Specialist,4,4,11690,10,13,Yes,No
+57,HR,Engineer,2,4,4673,28,15,Yes,No
+41,R&D,Engineer,5,1,17318,25,18,No,No
+20,R&D,HR Specialist,4,2,14171,15,1,No,No
+39,R&D,Sales Executive,3,3,16545,34,11,No,Yes
+19,R&D,HR Specialist,5,4,14803,19,13,No,No
+41,HR,Engineer,4,4,5294,2,5,No,No
+47,HR,Manager,1,3,6630,0,12,Yes,No
+55,R&D,Manager,1,1,18093,0,3,No,No
+19,R&D,Sales Executive,2,1,19530,16,17,No,No
+38,HR,HR Specialist,4,1,17453,1,11,No,No
+50,R&D,Manager,1,2,15174,28,19,Yes,Yes
+29,Sales,HR Specialist,3,2,6453,19,18,No,No
+39,R&D,Engineer,4,4,7507,5,7,No,No
+42,R&D,Manager,3,1,13602,7,6,No,No
+44,Sales,Sales Executive,3,3,8628,28,15,Yes,No
+59,Sales,Engineer,1,4,11328,32,18,Yes,No
+45,HR,Sales Executive,4,3,18534,2,5,No,No
+33,HR,Engineer,5,4,6552,34,19,Yes,No
+32,Sales,Manager,1,2,19402,4,10,No,No
+20,Sales,Sales Executive,1,4,5242,26,4,Yes,No
+54,HR,Sales Executive,4,2,17665,11,15,No,No
+24,R&D,Engineer,4,4,8097,19,6,Yes,No
+38,Sales,Sales Executive,3,1,11640,19,4,No,No
+26,HR,Engineer,4,3,4948,8,10,No,No
+56,R&D,Engineer,3,1,8618,38,14,Yes,No
+35,Sales,Engineer,1,4,7236,3,2,No,No
+21,R&D,Engineer,2,4,4920,18,4,No,No
+42,HR,Manager,5,4,14169,37,4,No,No
+31,Sales,Engineer,1,2,7188,26,8,No,No
+26,R&D,HR Specialist,4,3,15207,12,14,Yes,No
+43,Sales,Sales Executive,5,3,3238,12,2,No,No
+19,R&D,HR Specialist,2,4,3204,21,5,Yes,No
+37,HR,Manager,2,4,13799,27,16,Yes,Yes
+45,HR,HR Specialist,3,2,8552,21,7,Yes,No
+24,Sales,Sales Executive,5,1,7927,18,10,Yes,No
+25,R&D,HR Specialist,3,1,14164,7,5,No,No
+52,Sales,Manager,1,3,7390,7,7,No,No
+31,Sales,Engineer,5,2,18641,25,9,Yes,Yes
+34,R&D,HR Specialist,1,4,9160,25,2,No,Yes
+53,R&D,Manager,3,3,18810,22,13,Yes,No
+57,R&D,Manager,5,2,8126,12,13,No,No
+21,HR,Sales Executive,3,1,3816,27,9,No,No
+19,Sales,Sales Executive,5,2,16414,8,11,No,Yes
+23,Sales,HR Specialist,3,1,3192,19,5,Yes,Yes
+59,HR,Engineer,2,2,6645,18,11,Yes,No
+21,R&D,Manager,3,3,15816,38,13,No,No
+46,HR,HR Specialist,2,1,9314,11,1,Yes,No
+35,HR,Manager,3,3,10374,14,8,Yes,No
+43,HR,Manager,5,3,6700,30,9,No,No
+51,Sales,Engineer,5,1,13655,13,16,Yes,Yes
+27,HR,Engineer,5,1,18129,10,16,No,Yes
+53,Sales,HR Specialist,4,4,12359,25,2,No,No
+31,Sales,Engineer,1,4,6893,26,18,No,No
+48,Sales,Engineer,5,4,9811,10,0,Yes,No
+32,R&D,HR Specialist,2,3,12288,37,11,No,No
+25,Sales,Engineer,5,3,3504,33,6,No,No
+31,Sales,Sales Executive,4,4,12813,18,3,Yes,No
+40,R&D,Manager,2,3,17671,5,9,Yes,No
+57,Sales,Manager,4,3,13738,37,12,Yes,Yes
+38,HR,Manager,2,1,14186,27,1,Yes,No
+33,HR,Manager,3,1,9773,0,9,No,No
+35,Sales,HR Specialist,1,3,6816,34,3,Yes,No
+41,R&D,Manager,1,4,3717,39,17,Yes,No
+43,HR,Manager,4,2,14676,7,4,Yes,Yes
+42,R&D,Manager,1,4,7434,6,18,Yes,No
+58,R&D,Manager,4,2,8057,10,1,No,Yes
+46,HR,Sales Executive,4,4,7994,38,11,Yes,No
+32,R&D,Manager,4,1,7234,3,16,No,No
+18,HR,Sales Executive,1,3,6764,24,9,Yes,No
+42,R&D,HR Specialist,4,3,14181,11,1,No,No
+24,HR,Engineer,1,1,7637,25,5,No,No
+26,Sales,Manager,4,2,5104,37,7,Yes,No
+41,HR,Engineer,5,2,12447,11,18,No,No
+18,HR,Engineer,4,2,13674,36,10,Yes,Yes
+25,HR,HR Specialist,2,1,11385,23,11,No,No
+41,HR,Engineer,4,2,14999,15,8,No,No
+28,R&D,Sales Executive,3,1,6719,12,1,No,No
+34,Sales,Engineer,4,4,5581,24,7,Yes,No
+25,HR,Engineer,2,4,5763,3,10,No,No
+52,R&D,Engineer,2,1,8991,10,3,Yes,No
+52,Sales,Manager,1,3,13531,31,9,No,Yes
+50,Sales,Manager,5,4,14064,6,19,No,No
+22,Sales,Sales Executive,4,2,14312,10,15,No,No
+59,Sales,Sales Executive,1,1,7780,27,7,No,No
+56,HR,Manager,5,2,7177,22,3,No,No
+58,HR,Sales Executive,4,2,18169,22,9,No,No
+45,R&D,Manager,3,3,9476,27,11,Yes,No
+24,R&D,HR Specialist,4,2,5382,25,13,Yes,No
+26,R&D,Engineer,2,3,19915,24,15,Yes,Yes
+25,Sales,Engineer,2,4,15508,28,17,No,No
+29,Sales,Sales Executive,3,1,3634,18,11,Yes,No
+51,HR,Manager,1,2,14996,32,17,No,No
+50,Sales,Manager,5,1,17162,35,6,Yes,No
+40,Sales,Sales Executive,4,2,19386,13,19,Yes,No
+41,Sales,Manager,2,1,17005,13,6,No,No
+54,R&D,HR Specialist,1,2,11397,34,8,No,Yes
+52,R&D,Engineer,3,2,15327,29,0,Yes,No
+57,HR,Sales Executive,2,2,17394,27,5,Yes,No
+39,Sales,Sales Executive,3,2,5890,16,5,Yes,No
+44,Sales,Manager,4,2,13858,2,11,Yes,No
+52,HR,Sales Executive,5,2,11026,15,11,No,No
+18,Sales,HR Specialist,2,2,6306,29,9,Yes,No
+52,Sales,Manager,2,2,3897,28,5,No,No
+54,R&D,Manager,4,2,12277,14,16,No,Yes
+31,HR,Manager,1,1,12471,24,18,Yes,No
+20,HR,Manager,5,3,17896,37,17,No,No
+18,HR,HR Specialist,2,2,18240,37,5,Yes,No
+22,HR,Manager,5,3,17683,22,18,No,No
+43,R&D,Sales Executive,2,2,3670,24,9,No,No
+31,R&D,HR Specialist,5,2,14767,6,7,Yes,No
+56,Sales,Engineer,3,1,16006,21,5,No,No
+44,Sales,Engineer,2,4,18768,16,6,No,No
+26,Sales,Sales Executive,5,4,19633,17,0,Yes,No
+32,Sales,Sales Executive,1,1,4892,9,17,No,No
+32,R&D,HR Specialist,3,3,6439,9,19,No,No
+43,HR,Engineer,3,4,5854,6,11,Yes,No
+59,R&D,Engineer,1,1,14577,37,15,Yes,No
+30,Sales,Engineer,5,1,14763,26,9,No,Yes
+49,R&D,Engineer,4,4,14618,32,9,No,No
+56,HR,Engineer,1,3,11235,0,13,No,No
+49,HR,Manager,5,1,5618,33,19,Yes,No
+21,R&D,Sales Executive,1,2,6163,3,9,No,No
+47,R&D,Manager,1,3,5942,16,9,No,No
+54,R&D,Engineer,2,3,4925,3,10,No,Yes
+40,Sales,HR Specialist,5,4,5972,25,1,No,No
+56,R&D,HR Specialist,4,4,14705,3,19,No,No
+32,R&D,Engineer,2,2,13640,0,7,No,No
+46,R&D,Engineer,1,1,13966,6,6,Yes,Yes
+53,HR,HR Specialist,1,4,14138,29,7,Yes,No
+30,HR,Manager,1,4,18935,8,0,No,No
+49,Sales,Manager,5,3,16145,34,1,No,No
+24,Sales,Engineer,5,4,3489,7,17,Yes,No
+39,HR,Manager,2,4,14748,23,14,Yes,No
+45,HR,HR Specialist,4,4,6516,18,0,Yes,No
+19,HR,Manager,2,4,9410,35,4,No,No
+59,R&D,Engineer,3,3,3053,26,1,No,Yes
+23,R&D,HR Specialist,1,2,19999,31,19,No,No
+45,HR,Manager,1,2,8944,13,2,No,No
+45,R&D,Sales Executive,1,1,10404,17,18,Yes,Yes
+37,R&D,HR Specialist,2,4,3954,27,17,Yes,No
+47,Sales,HR Specialist,2,3,13625,28,17,Yes,No
+28,HR,Sales Executive,1,1,4629,15,13,Yes,No
+45,HR,Sales Executive,2,1,13973,34,7,No,No
+42,R&D,HR Specialist,5,2,9859,30,11,No,No
+56,HR,Sales Executive,5,3,11841,3,9,Yes,No
+50,Sales,Engineer,2,3,13539,36,19,Yes,No
+18,Sales,Engineer,1,3,15682,16,16,Yes,No
+44,Sales,Engineer,2,2,6278,38,10,Yes,No
+30,HR,HR Specialist,2,2,9539,25,1,Yes,No
+58,HR,Sales Executive,2,2,19754,38,3,No,No
+20,HR,Sales Executive,3,2,3857,3,0,No,Yes
+56,HR,Manager,5,2,7886,29,14,Yes,Yes
+23,HR,Manager,4,4,15945,29,12,Yes,No
+25,Sales,Sales Executive,4,4,10485,21,7,Yes,No
+44,R&D,Sales Executive,3,3,16680,10,3,No,Yes
+26,Sales,Sales Executive,2,1,19767,1,9,No,No
+54,HR,HR Specialist,3,3,17397,11,18,No,Yes
+50,Sales,Sales Executive,3,1,13744,29,17,Yes,No
+59,HR,Manager,1,2,7334,35,4,No,No
+41,HR,HR Specialist,5,1,15226,17,18,Yes,No
+32,Sales,Sales Executive,4,3,16440,25,15,No,No
+49,HR,Manager,2,3,18020,6,0,No,Yes
+49,R&D,HR Specialist,4,1,7251,0,11,No,No
+41,HR,Sales Executive,4,4,15180,25,1,Yes,No
+58,R&D,Sales Executive,5,2,19140,22,7,Yes,No
+29,R&D,Sales Executive,4,2,3922,25,17,No,No
+56,HR,HR Specialist,4,3,10957,5,15,Yes,No
+19,Sales,Manager,3,4,18796,5,4,Yes,No
+20,R&D,Manager,5,1,4230,7,12,Yes,Yes
+54,Sales,Engineer,1,2,13627,23,18,Yes,No
+34,R&D,Sales Executive,2,4,13006,21,2,Yes,No
+19,HR,Engineer,4,2,7933,18,7,Yes,Yes
+19,HR,Engineer,2,4,17295,36,11,Yes,No
+45,R&D,Manager,1,4,19377,17,1,No,No
+40,HR,HR Specialist,2,3,3203,30,10,Yes,No
+54,R&D,HR Specialist,1,2,19544,36,11,Yes,No
+49,HR,Manager,3,1,18899,29,17,No,No
+50,Sales,HR Specialist,4,3,6748,32,12,No,No
+18,HR,Engineer,1,3,9718,9,4,No,Yes
+36,Sales,Sales Executive,2,1,4093,36,11,No,No
+19,HR,Manager,4,3,18228,11,1,Yes,Yes
+43,Sales,Sales Executive,3,4,19034,29,4,No,No
+49,HR,HR Specialist,4,4,8710,26,6,No,No
+23,Sales,Sales Executive,1,2,12732,38,11,Yes,No
+49,R&D,HR Specialist,3,2,6191,8,15,Yes,No
+21,R&D,HR Specialist,2,1,3689,20,7,Yes,No
+28,Sales,Engineer,3,2,5103,11,8,No,No
+34,HR,HR Specialist,3,4,3365,28,14,Yes,No
+55,Sales,Engineer,5,1,17010,32,4,No,No
+41,HR,Engineer,3,1,14767,14,12,Yes,No
+22,R&D,Engineer,3,2,19103,1,4,Yes,Yes
+51,HR,Manager,4,4,15742,38,10,No,No
+23,R&D,Manager,2,1,15391,17,9,Yes,Yes
+39,HR,HR Specialist,4,4,7172,2,19,Yes,No
+28,HR,Engineer,4,4,18623,6,12,Yes,No
+33,HR,Manager,1,4,5378,17,8,Yes,No
+50,Sales,Engineer,4,2,15031,37,13,Yes,Yes
+26,Sales,Sales Executive,5,3,8669,36,17,No,Yes
+23,R&D,Sales Executive,5,3,5735,32,14,No,No
+33,R&D,Sales Executive,1,1,12867,30,9,Yes,No
+46,Sales,HR Specialist,2,4,11490,10,6,No,No
+20,R&D,Engineer,2,2,3956,3,7,No,No
+37,Sales,Sales Executive,4,4,12306,17,2,No,No
+53,HR,Manager,4,4,9623,3,14,Yes,No
+36,R&D,Sales Executive,4,2,17908,33,15,Yes,No
+43,R&D,Sales Executive,2,3,7460,28,3,Yes,No
+20,Sales,Sales Executive,3,4,16986,23,5,No,No
+36,R&D,HR Specialist,5,4,15638,21,0,No,No
+37,R&D,Manager,3,3,5850,1,3,Yes,Yes
+49,HR,Engineer,3,2,16299,5,10,Yes,No
+24,R&D,Manager,2,1,13698,24,11,No,Yes
+58,HR,Engineer,3,3,7594,20,4,No,No
+50,Sales,HR Specialist,1,1,17282,15,15,Yes,No
+57,R&D,HR Specialist,4,1,19285,30,12,No,No
+56,HR,HR Specialist,1,3,17334,13,12,No,Yes
+35,Sales,HR Specialist,5,4,9644,38,16,No,No
+57,R&D,Engineer,4,1,5850,27,6,No,Yes
+18,Sales,Sales Executive,3,1,17933,31,7,No,Yes
+28,R&D,Engineer,5,2,3165,27,12,No,No
+45,Sales,Manager,4,4,13701,8,15,No,No
+42,Sales,HR Specialist,3,1,3919,21,3,Yes,No
+40,HR,HR Specialist,1,2,11305,31,7,Yes,No
+48,Sales,Manager,4,4,18715,4,15,No,No
+47,R&D,Engineer,3,3,6839,22,9,No,Yes
+59,R&D,Sales Executive,1,3,14618,4,11,No,No
+52,HR,Sales Executive,5,2,16519,31,11,Yes,No
+24,R&D,Manager,5,3,13776,9,4,Yes,No
+33,R&D,Sales Executive,5,1,3067,38,15,No,No
+43,R&D,Engineer,5,4,12788,14,0,Yes,No
+19,Sales,Engineer,2,1,8660,6,8,No,No
+18,Sales,Manager,4,1,7478,28,11,No,No
+29,R&D,Engineer,4,3,11210,2,4,No,No
+22,HR,HR Specialist,2,1,13922,18,19,No,Yes
+54,Sales,Manager,3,3,6521,9,2,No,No
+49,HR,Engineer,3,4,3572,27,4,No,No
+26,R&D,Manager,5,4,10082,28,1,No,No
+58,R&D,Sales Executive,1,1,8395,14,13,Yes,Yes
+52,Sales,Engineer,3,2,18407,34,1,No,Yes
+36,R&D,HR Specialist,1,3,14094,5,12,Yes,No
+33,Sales,Engineer,4,3,3650,11,6,No,Yes
+20,R&D,Manager,1,1,8741,37,9,No,No
+37,R&D,Manager,4,3,16281,12,12,Yes,No
+41,Sales,Engineer,2,3,9838,28,15,Yes,No
+50,Sales,HR Specialist,2,2,6262,18,13,No,No
+41,Sales,HR Specialist,5,2,7996,2,10,Yes,No
+28,R&D,HR Specialist,3,1,14826,7,9,No,No
+25,R&D,Manager,5,2,5827,7,5,No,Yes
+53,HR,Engineer,4,1,17211,19,3,Yes,Yes
+55,Sales,Sales Executive,5,4,8232,3,0,Yes,No
+57,R&D,Manager,1,1,5217,20,6,Yes,No
+37,R&D,HR Specialist,4,4,17232,2,8,Yes,No
+52,Sales,Engineer,2,1,17026,7,7,No,No
+42,HR,HR Specialist,3,3,16878,22,4,Yes,No
+52,Sales,Sales Executive,4,2,9837,15,18,Yes,Yes
+42,HR,HR Specialist,4,4,10031,12,9,Yes,No
+46,R&D,HR Specialist,1,1,17806,2,10,Yes,No
+35,HR,Sales Executive,3,2,6716,8,14,Yes,No
+35,R&D,Engineer,2,1,6414,13,5,No,No
+19,Sales,Manager,4,2,3570,12,14,No,Yes
+52,Sales,Engineer,4,2,16288,6,4,Yes,No
+33,Sales,Sales Executive,1,1,3917,14,18,Yes,No
+58,HR,HR Specialist,5,4,13066,6,18,No,Yes
+53,R&D,Engineer,2,4,9982,37,9,Yes,No
+50,Sales,Manager,3,3,9336,33,11,No,No
+21,Sales,Sales Executive,4,2,19999,21,3,No,No
+50,R&D,Engineer,4,3,12941,23,17,Yes,No
+31,Sales,Manager,2,3,15380,36,15,No,Yes
+38,R&D,Sales Executive,5,1,14667,0,7,Yes,No
+37,R&D,Manager,4,1,7529,9,3,Yes,No
+25,R&D,Sales Executive,2,1,15192,15,11,No,No
+24,R&D,HR Specialist,1,2,11566,7,1,No,Yes
+20,R&D,Engineer,5,1,10226,24,3,Yes,No
+34,HR,Manager,3,1,8162,11,4,No,No
+50,Sales,Sales Executive,4,2,19590,24,2,Yes,No
+29,HR,Manager,2,2,4319,16,8,No,No
+39,Sales,Manager,1,4,4141,25,17,No,Yes
+39,HR,Engineer,3,1,7627,13,10,Yes,No
+47,R&D,HR Specialist,2,1,17501,35,2,Yes,Yes
+55,Sales,Manager,2,1,5690,22,1,Yes,No
+55,Sales,Sales Executive,3,4,10323,5,8,No,No
+25,HR,Sales Executive,1,1,6255,4,13,Yes,No
+44,HR,HR Specialist,1,4,8213,24,3,Yes,No
+44,Sales,Sales Executive,5,3,7108,17,8,No,No
+51,HR,HR Specialist,4,4,12802,12,12,No,No
+38,HR,Sales Executive,3,3,14413,13,17,Yes,Yes
+47,HR,Engineer,3,1,17995,27,14,Yes,Yes
+50,R&D,Manager,3,3,15583,17,9,Yes,No
+45,R&D,Engineer,1,4,8021,27,15,Yes,Yes
+50,HR,Manager,4,2,9582,26,11,No,No
+22,HR,Manager,5,3,16455,31,19,No,No
+36,R&D,Manager,2,3,16117,8,4,Yes,No
+21,R&D,Engineer,2,1,4262,39,1,Yes,No
+52,Sales,Manager,3,4,10382,31,9,Yes,No
+34,Sales,Engineer,4,3,6327,19,0,No,No
+45,R&D,HR Specialist,1,3,13020,27,6,Yes,No
+47,HR,Sales Executive,4,3,19848,32,16,Yes,No
+46,HR,Sales Executive,4,3,17062,3,15,No,Yes
+23,HR,Manager,1,2,9774,33,2,No,No
+52,HR,Engineer,3,4,18160,2,13,Yes,No
+58,Sales,Sales Executive,4,1,4230,25,9,Yes,No
+54,R&D,Engineer,2,1,12076,7,6,No,Yes
+41,HR,Engineer,1,2,6805,5,16,Yes,Yes
+46,Sales,Manager,5,4,17715,15,5,Yes,No
+48,HR,Sales Executive,3,3,8750,23,3,No,No
+52,R&D,Manager,1,2,18627,38,16,No,No
+50,Sales,Manager,5,4,16232,29,8,No,No
+38,R&D,Sales Executive,5,3,6135,12,3,Yes,No
+49,R&D,Sales Executive,4,2,9953,4,6,No,No
+40,Sales,HR Specialist,4,4,4546,24,1,No,No
+50,Sales,HR Specialist,4,1,18457,19,16,Yes,Yes
+20,Sales,Engineer,1,1,5411,17,7,Yes,No
+35,Sales,Sales Executive,1,4,17113,17,14,No,No
+42,Sales,HR Specialist,3,1,7145,1,14,No,No
+59,Sales,Engineer,4,4,5775,9,7,Yes,No
+48,Sales,Engineer,5,3,16193,11,15,Yes,No
+20,HR,Engineer,2,4,15851,12,18,No,No
+57,R&D,HR Specialist,3,3,16070,10,10,No,No
+41,Sales,Sales Executive,1,2,6970,18,1,Yes,No
+49,HR,Manager,3,4,17119,34,16,No,Yes
+39,HR,Engineer,3,2,7331,38,15,Yes,Yes
+40,HR,HR Specialist,3,1,13295,25,14,No,No
+19,R&D,HR Specialist,3,3,4942,13,12,Yes,No
+44,Sales,Manager,2,4,19575,23,14,Yes,No
+59,HR,Manager,4,2,16404,0,3,No,No
+19,R&D,HR Specialist,5,3,3861,21,15,No,No
+43,R&D,Sales Executive,3,3,12275,22,11,Yes,No
+34,R&D,Manager,3,1,7134,18,3,No,Yes
+57,HR,HR Specialist,3,1,14803,17,2,No,Yes
+50,Sales,Manager,4,3,18408,11,16,No,No
+26,HR,Sales Executive,1,3,19351,27,17,Yes,Yes
+56,HR,Engineer,1,4,7131,27,17,No,No
+46,Sales,Manager,2,3,15057,32,16,No,No
+59,Sales,Sales Executive,1,4,14349,18,11,Yes,No
+43,Sales,HR Specialist,3,3,14486,27,3,No,Yes
+52,R&D,Manager,3,1,8457,36,11,No,No
+42,Sales,Manager,3,4,9079,25,19,Yes,No
+41,HR,HR Specialist,2,2,15453,34,14,Yes,No
+30,Sales,Engineer,3,1,15158,33,15,No,No
+24,HR,HR Specialist,1,4,18735,34,4,No,Yes
+53,R&D,Manager,4,4,18830,39,14,Yes,No
+37,HR,HR Specialist,4,2,18125,15,16,Yes,No
+18,HR,Sales Executive,5,4,14905,37,17,No,No
+25,Sales,HR Specialist,1,3,15298,12,4,No,No
+33,Sales,Manager,3,2,5011,22,12,No,No
+31,HR,HR Specialist,4,1,6373,21,18,Yes,Yes
+29,Sales,Engineer,1,1,13335,15,12,No,No
+40,R&D,HR Specialist,4,3,13692,27,17,Yes,No
+32,R&D,Engineer,3,1,17527,34,13,Yes,No
+45,Sales,Sales Executive,4,4,15773,7,3,Yes,No
+51,R&D,Engineer,5,4,4289,21,3,No,No
+19,Sales,HR Specialist,5,3,4447,20,19,No,No
+49,HR,Manager,4,1,17139,25,19,No,Yes
+40,HR,Engineer,1,1,16757,39,18,Yes,No
+39,R&D,Sales Executive,1,3,8462,20,12,No,No
+42,Sales,Engineer,1,2,10657,24,11,Yes,No
+39,Sales,Engineer,4,1,7920,0,6,Yes,No
+39,R&D,Engineer,1,2,13345,5,11,Yes,No
+59,HR,Sales Executive,3,1,11417,22,3,Yes,No
+23,R&D,HR Specialist,5,1,8208,22,1,Yes,No
+32,HR,Engineer,3,1,3687,22,1,Yes,No
+54,Sales,Engineer,1,1,19913,31,4,No,No
+50,HR,Manager,3,4,16223,29,9,Yes,No
+25,R&D,Sales Executive,1,2,11080,12,9,No,No
+22,Sales,Engineer,4,2,12486,17,8,Yes,Yes
+56,R&D,Sales Executive,3,1,9094,22,12,No,No
+21,R&D,Engineer,4,1,10692,14,6,No,No
+23,HR,HR Specialist,4,2,14088,32,4,No,Yes
+49,R&D,HR Specialist,2,4,6103,20,9,No,No
+47,HR,Engineer,1,3,5440,38,9,Yes,No
+52,Sales,HR Specialist,5,3,10124,22,5,Yes,No
+57,HR,Engineer,1,2,17031,26,18,Yes,No
+33,Sales,HR Specialist,5,1,17536,17,7,Yes,Yes
+30,HR,Manager,1,1,3446,23,0,No,No
+59,R&D,Manager,4,4,6915,39,16,No,No
+47,HR,Manager,3,3,18787,6,6,No,No
+36,HR,Sales Executive,3,4,9587,19,13,Yes,No
+34,Sales,Sales Executive,2,3,3226,26,16,No,No
+36,R&D,Manager,5,2,14151,5,8,Yes,No
+45,HR,Sales Executive,5,3,8558,26,16,No,No
+43,R&D,HR Specialist,5,4,14971,8,4,No,No
+54,HR,Engineer,4,4,3186,30,19,No,No
+43,HR,Engineer,5,4,17680,20,7,No,Yes
+40,R&D,Engineer,3,2,17559,25,5,No,Yes
+26,HR,Manager,4,3,14069,39,10,Yes,No
+29,R&D,Sales Executive,1,3,5535,12,18,No,No
+18,HR,HR Specialist,5,4,4932,22,3,Yes,No
+18,Sales,HR Specialist,5,3,5032,19,17,Yes,Yes
+51,R&D,Manager,1,1,4252,36,0,Yes,Yes
+49,HR,HR Specialist,5,1,8509,27,12,Yes,No
+42,HR,HR Specialist,1,1,8074,16,13,Yes,No
+57,Sales,HR Specialist,4,3,16900,27,0,Yes,No
+18,R&D,HR Specialist,3,2,17523,1,10,Yes,No
+33,HR,Sales Executive,1,2,4881,24,16,Yes,No
+56,Sales,HR Specialist,2,2,3269,5,3,No,No
+22,HR,Engineer,1,2,4630,10,11,No,No
+39,R&D,Manager,5,1,16383,37,9,Yes,No
+46,HR,Sales Executive,4,1,19152,5,5,Yes,No
+20,HR,HR Specialist,4,4,14084,10,0,Yes,No
+29,HR,Sales Executive,1,3,4695,13,6,No,Yes
+43,HR,HR Specialist,3,3,17821,1,15,No,No
+33,Sales,Engineer,2,2,6262,39,13,Yes,No
+54,Sales,Manager,4,1,4445,2,19,Yes,No
+39,R&D,HR Specialist,5,2,19436,34,19,No,Yes
+46,Sales,HR Specialist,5,4,12949,32,5,No,No
+31,Sales,HR Specialist,3,3,9901,23,4,Yes,No
+45,R&D,HR Specialist,4,3,3719,18,17,Yes,No
+22,Sales,Manager,1,2,11597,17,14,Yes,No
+47,Sales,Manager,5,4,9855,23,5,Yes,No
+22,R&D,Engineer,3,3,11263,34,18,No,No
+29,R&D,Manager,4,4,17520,0,0,No,No
+33,R&D,HR Specialist,4,4,14874,35,0,Yes,No
+43,HR,Engineer,4,2,17079,24,12,Yes,No
+43,HR,Engineer,4,1,10243,33,2,Yes,No
+38,R&D,Engineer,4,2,12018,24,9,No,No
+56,R&D,HR Specialist,5,1,19732,15,2,Yes,No
+53,R&D,Sales Executive,3,4,15100,33,8,Yes,No
+50,HR,HR Specialist,4,1,19691,28,7,Yes,No
+47,HR,Manager,2,4,7820,18,2,No,No
+54,Sales,Manager,2,3,14001,22,12,Yes,No
+40,Sales,HR Specialist,3,3,16907,18,5,No,No
+27,R&D,HR Specialist,1,3,14669,24,12,Yes,No
+22,HR,Engineer,1,2,18916,15,19,Yes,No
+53,HR,HR Specialist,1,2,13878,8,19,Yes,No
+51,HR,Engineer,2,4,5985,0,11,No,Yes
+48,R&D,Manager,1,3,11112,18,12,Yes,No
+27,Sales,Engineer,5,2,11467,32,1,Yes,No
+36,R&D,HR Specialist,4,3,3336,33,15,No,No
+49,Sales,Manager,2,2,13165,15,5,No,No
+18,Sales,Sales Executive,3,1,15768,39,18,No,No
+22,R&D,Engineer,3,1,6968,17,12,Yes,Yes
+21,Sales,Manager,4,3,3910,33,16,No,No
+33,Sales,Engineer,2,4,18632,24,8,Yes,No
+41,HR,Manager,1,2,19279,5,16,No,No
+33,Sales,Manager,1,2,6129,20,1,No,No
+19,R&D,Engineer,5,1,8447,5,18,No,Yes
+45,R&D,Sales Executive,5,1,9129,31,18,Yes,No
+49,Sales,Manager,1,4,8850,38,6,Yes,No
+44,HR,Manager,3,4,10446,30,9,Yes,No
+37,HR,Manager,3,4,14949,9,9,Yes,Yes
+41,Sales,Sales Executive,5,3,11519,29,19,Yes,No
+29,Sales,Sales Executive,4,1,3314,17,8,Yes,Yes
+52,R&D,HR Specialist,1,3,14737,23,16,Yes,No
+50,Sales,Engineer,5,1,4134,8,14,Yes,No
+50,HR,Sales Executive,5,1,13938,30,1,Yes,No
+54,Sales,Engineer,1,2,18588,14,3,No,No
+29,R&D,HR Specialist,1,1,11347,3,18,No,No
+20,R&D,Engineer,3,1,8592,39,16,Yes,No
+18,R&D,Sales Executive,4,3,13997,8,4,Yes,Yes
+50,R&D,Engineer,4,1,3721,8,6,Yes,No
+57,R&D,Sales Executive,1,3,12104,25,17,Yes,No
+27,Sales,Engineer,2,4,3870,3,6,No,Yes
+46,Sales,Sales Executive,5,1,9751,16,16,No,No
+30,Sales,Sales Executive,5,1,19881,15,6,Yes,No
+29,Sales,Engineer,1,3,4756,14,3,No,Yes
+48,R&D,HR Specialist,2,4,4117,34,7,No,Yes
+19,HR,Manager,3,2,14601,4,12,Yes,No
+52,Sales,HR Specialist,1,4,5828,4,3,Yes,No
+40,HR,Engineer,1,3,17996,19,5,Yes,No
+34,Sales,HR Specialist,5,4,16878,14,4,Yes,No
+43,Sales,Sales Executive,1,3,9992,17,11,No,No
+25,HR,Manager,1,3,16778,1,3,Yes,Yes
+46,R&D,Engineer,1,2,9771,28,8,No,No
+43,Sales,Engineer,5,1,19526,12,3,Yes,No
+27,Sales,Engineer,3,3,6435,3,18,No,No
+43,Sales,Manager,3,3,9622,9,13,Yes,No
+51,HR,Sales Executive,1,2,15852,30,4,Yes,No
+58,R&D,Engineer,5,3,17806,7,17,No,Yes
+24,HR,HR Specialist,3,1,13623,2,9,No,Yes
+21,HR,Engineer,3,2,4848,8,18,No,No
+28,R&D,Engineer,3,1,5696,29,11,Yes,No
+46,HR,Engineer,5,1,4717,10,17,No,No
+53,R&D,Engineer,5,2,12259,34,16,No,No
+42,Sales,Sales Executive,1,3,5786,36,10,No,No
+38,R&D,HR Specialist,4,1,17154,12,2,No,No
+53,Sales,Sales Executive,3,1,16409,35,16,No,Yes
+27,HR,HR Specialist,4,1,6791,12,0,No,Yes
+54,HR,Engineer,5,1,6871,11,14,No,No
+26,Sales,Manager,5,2,4806,36,8,No,No
+41,HR,Sales Executive,5,2,16304,9,14,No,No
+52,R&D,Manager,4,4,18549,8,2,Yes,No
+52,Sales,Sales Executive,5,4,6303,6,18,Yes,No
+53,HR,Engineer,1,1,19061,1,12,No,No
+35,Sales,Sales Executive,5,3,18198,22,11,Yes,No
+56,R&D,Engineer,2,1,13655,38,19,Yes,Yes
+49,R&D,Sales Executive,4,3,11924,39,0,No,No
+41,HR,Engineer,2,1,12940,38,16,No,No
+40,R&D,Engineer,5,4,6924,20,12,No,Yes
+49,Sales,HR Specialist,1,4,12783,22,0,No,No
+54,R&D,Engineer,3,3,7485,28,9,No,No
+29,Sales,HR Specialist,5,1,15629,13,14,No,No
+30,Sales,Engineer,1,3,16233,25,6,Yes,No
+40,R&D,Manager,4,4,15901,4,17,No,No
+42,HR,Engineer,2,1,3191,30,15,Yes,Yes
+52,R&D,Manager,2,1,7917,24,13,No,No
+58,Sales,Manager,2,3,8831,30,17,No,No
+47,Sales,Engineer,4,2,13160,19,6,Yes,No
+34,R&D,Manager,1,3,16682,16,16,No,No
+37,HR,HR Specialist,4,4,15391,1,17,No,No
+42,HR,Sales Executive,2,4,4874,24,11,Yes,No
+39,Sales,Engineer,5,4,12062,12,7,No,No
+30,Sales,Manager,3,4,7763,38,1,Yes,No
+36,HR,Engineer,4,4,13234,27,6,No,No
+53,R&D,HR Specialist,4,2,12221,5,3,No,No
+29,Sales,Engineer,1,1,14410,2,17,Yes,No
+58,Sales,Engineer,1,3,17519,34,5,No,No
+36,HR,Manager,4,3,4051,17,8,Yes,No
+29,R&D,HR Specialist,2,4,15225,10,8,Yes,No
+26,HR,Sales Executive,3,3,12765,19,13,Yes,No
+24,R&D,Sales Executive,1,4,14382,4,7,No,No
+45,R&D,Manager,2,2,15580,18,18,No,No
+31,R&D,Engineer,5,2,14989,21,2,Yes,No
+48,Sales,Manager,1,1,14939,18,17,No,Yes
+36,HR,Manager,2,2,3307,15,4,No,No
+33,HR,Manager,2,2,6359,23,13,No,Yes
+22,R&D,Engineer,3,1,6176,3,3,Yes,Yes
+52,Sales,HR Specialist,3,3,4251,14,6,No,No
+29,Sales,Manager,5,4,8366,24,19,Yes,No
+42,HR,Engineer,2,4,9226,34,11,No,No
+38,Sales,HR Specialist,2,3,17330,13,1,No,No
+53,Sales,Manager,3,1,7891,18,10,Yes,No
+40,R&D,Sales Executive,1,3,7992,37,13,No,No
+33,Sales,HR Specialist,1,2,4961,35,15,Yes,No
+56,R&D,Manager,4,1,15497,6,19,No,No
+59,HR,HR Specialist,3,1,13848,29,5,Yes,No
+56,Sales,HR Specialist,4,1,16255,18,3,No,Yes
+31,HR,HR Specialist,3,4,7567,24,14,No,Yes
+48,HR,HR Specialist,5,3,19079,15,0,No,No
+22,Sales,HR Specialist,2,1,9513,39,6,Yes,No
+52,Sales,HR Specialist,5,1,18235,7,11,Yes,Yes
+40,HR,Manager,3,1,14755,17,9,Yes,No
+46,Sales,Sales Executive,2,3,14151,27,4,No,No
+28,R&D,Engineer,1,4,19567,15,11,Yes,No
+35,R&D,HR Specialist,1,2,6358,18,17,Yes,No
+29,Sales,Engineer,4,4,12590,16,9,Yes,No
+26,HR,Manager,3,1,13988,12,5,Yes,No
+27,Sales,HR Specialist,3,4,10678,6,11,Yes,No
+34,Sales,Sales Executive,1,4,8698,26,6,Yes,No
+55,HR,Engineer,5,2,4273,9,17,Yes,No
+24,HR,HR Specialist,2,3,14241,33,1,Yes,No
+30,R&D,Manager,5,3,12497,35,9,Yes,Yes
+57,HR,Sales Executive,5,4,12107,24,14,Yes,No
+59,R&D,Engineer,1,4,14273,5,11,No,No
+26,HR,Engineer,1,3,11002,23,16,No,No
+44,Sales,HR Specialist,1,3,7247,17,3,Yes,No
+19,R&D,Sales Executive,4,2,12220,22,6,No,Yes
+22,R&D,Sales Executive,5,1,13703,5,8,No,No
+46,R&D,Sales Executive,3,4,18472,28,18,Yes,No
+54,Sales,Sales Executive,2,3,19654,24,6,Yes,No
+55,Sales,Manager,4,4,15392,16,1,Yes,Yes
+36,Sales,Sales Executive,3,4,14956,23,5,No,No
+25,Sales,Engineer,5,3,18641,10,17,Yes,No
+18,Sales,Engineer,1,2,16998,25,5,No,Yes
+39,R&D,Manager,5,4,9305,33,12,Yes,No
+34,Sales,Engineer,2,2,15721,27,18,No,No
+24,R&D,Engineer,4,3,9995,2,1,No,Yes
+42,Sales,Sales Executive,4,1,15427,10,11,Yes,Yes
+21,HR,Engineer,2,1,16782,37,14,Yes,Yes
+53,R&D,Manager,3,4,5230,13,13,No,No
+23,HR,Sales Executive,3,3,9511,25,5,No,Yes
+48,R&D,HR Specialist,4,2,19512,20,17,Yes,No
+36,HR,Sales Executive,4,4,12461,38,4,Yes,No
+56,Sales,Manager,1,3,7765,29,17,No,No
+44,Sales,Sales Executive,3,3,16272,7,2,Yes,Yes
+27,Sales,Sales Executive,2,2,8552,19,2,No,No
+43,R&D,Manager,3,4,3627,31,9,Yes,No
+36,HR,Sales Executive,1,3,14989,21,18,Yes,No
+56,Sales,Manager,4,3,16780,6,2,Yes,No
+20,HR,Manager,4,3,9589,8,11,No,Yes
+30,HR,HR Specialist,1,2,5044,0,15,Yes,No
+45,Sales,Engineer,2,4,16171,28,16,No,No
+37,Sales,Engineer,4,4,8884,7,6,Yes,No
+45,HR,Sales Executive,5,4,11185,3,12,No,No
+25,Sales,Sales Executive,4,4,3249,34,1,No,No
+58,Sales,HR Specialist,5,1,12175,2,3,Yes,Yes
+56,Sales,HR Specialist,1,1,19260,39,9,No,No
+18,R&D,HR Specialist,1,4,5672,6,6,No,No
+20,HR,Manager,4,2,10279,26,16,No,Yes
+30,HR,HR Specialist,3,1,11662,0,19,No,No
+45,R&D,HR Specialist,5,3,4987,26,5,Yes,No
+42,HR,Sales Executive,2,1,19474,15,18,Yes,No
+50,Sales,HR Specialist,4,3,15948,37,4,Yes,Yes
+55,HR,Manager,2,4,16026,6,9,No,No
+23,Sales,Manager,4,1,5773,22,8,No,No
+49,R&D,Sales Executive,3,2,16159,10,12,Yes,No
+38,Sales,HR Specialist,3,1,12878,32,18,Yes,Yes
+33,HR,HR Specialist,3,1,13178,35,5,No,No
+38,HR,Manager,3,1,13377,36,3,Yes,No
+28,HR,HR Specialist,1,4,10347,16,2,Yes,No
+54,R&D,HR Specialist,1,2,4008,34,2,No,No
+53,R&D,HR Specialist,5,1,6783,4,3,Yes,Yes
+52,HR,Engineer,2,2,7298,31,4,No,Yes
+36,Sales,Sales Executive,4,4,7668,2,7,Yes,No
+37,R&D,Engineer,4,3,5052,34,15,No,No
+35,HR,Sales Executive,1,1,4716,13,2,No,No
+58,HR,Manager,4,2,3310,30,11,No,No
+31,R&D,HR Specialist,1,2,17391,30,7,No,No
+32,R&D,Sales Executive,5,4,4260,16,12,No,No
+48,R&D,Engineer,2,1,16157,23,3,Yes,No
+18,Sales,HR Specialist,5,3,14460,22,13,Yes,No
+20,Sales,Manager,3,2,19968,17,13,Yes,No
+33,HR,Sales Executive,3,1,17011,13,12,No,No
+40,R&D,Sales Executive,3,3,5866,14,5,Yes,Yes
+28,Sales,Sales Executive,5,2,17365,14,16,No,No
+29,R&D,HR Specialist,4,2,8898,5,3,No,No
+27,HR,Engineer,2,3,9251,26,7,Yes,No
+49,Sales,Engineer,3,3,7939,14,16,No,No
+33,Sales,Sales Executive,3,4,7006,35,2,Yes,No
+25,Sales,Manager,3,1,4625,7,16,No,No
+55,HR,Manager,2,1,13956,14,8,No,No
+29,R&D,Engineer,3,4,9078,2,1,Yes,No
+41,Sales,Manager,2,2,11923,12,12,No,Yes
+45,HR,Engineer,3,3,6961,33,19,Yes,No
+25,R&D,Sales Executive,5,3,11806,23,1,No,No
+45,HR,Engineer,5,3,16558,39,19,Yes,No
+53,R&D,Engineer,2,2,9686,31,10,No,Yes
+43,HR,Sales Executive,5,3,4587,31,14,Yes,Yes
+25,R&D,Manager,2,3,12803,29,10,Yes,No
+45,Sales,Engineer,5,4,13350,12,2,No,No
+45,R&D,Engineer,5,2,14454,0,2,Yes,Yes
+54,HR,Sales Executive,2,1,18849,33,11,No,No
+58,HR,Manager,4,4,9837,14,4,No,No
+53,R&D,Engineer,5,4,4449,13,19,Yes,No
+44,Sales,Sales Executive,3,1,8454,28,6,Yes,No
+34,Sales,Engineer,4,4,12424,33,6,Yes,No
+26,R&D,HR Specialist,2,2,7117,17,12,Yes,No
+50,R&D,Sales Executive,4,3,11869,6,8,Yes,No
+37,HR,Manager,1,2,13850,28,12,No,No
+30,Sales,Manager,1,1,17343,30,11,Yes,No
+45,R&D,Manager,5,1,9845,24,12,No,Yes
+46,Sales,Manager,5,4,7624,37,9,Yes,No
+30,R&D,Engineer,3,2,11848,13,0,Yes,No
+52,R&D,Engineer,4,2,19549,7,7,Yes,No
+23,Sales,Manager,1,1,16136,26,15,No,No
+35,R&D,Manager,5,2,3589,1,12,Yes,No
+22,R&D,Manager,4,1,9509,16,2,No,Yes
+42,HR,Engineer,5,2,10693,36,2,No,No
+19,R&D,Manager,5,2,12454,13,4,No,No
+27,R&D,Manager,1,2,19455,24,10,Yes,No
+47,R&D,HR Specialist,1,1,14708,29,6,No,Yes
+22,HR,HR Specialist,5,4,15942,28,9,Yes,No
+50,Sales,Manager,2,2,19652,19,9,No,No
+18,HR,Sales Executive,5,1,12968,20,19,Yes,No
+35,HR,Manager,5,1,5462,21,1,No,No
+49,Sales,HR Specialist,3,2,12460,34,2,Yes,No
+28,HR,Sales Executive,3,2,4015,36,7,Yes,Yes
+38,Sales,Sales Executive,3,4,12275,15,10,Yes,No
+43,HR,Manager,2,1,16269,16,12,No,Yes
+42,Sales,HR Specialist,2,1,3406,15,6,No,No
+39,R&D,HR Specialist,5,3,10384,1,12,Yes,No
+44,HR,Sales Executive,3,1,14268,3,1,No,No
+30,HR,Manager,2,4,14795,20,5,No,No
+50,HR,Engineer,1,3,7485,38,8,No,No
+51,HR,Engineer,5,3,11901,33,19,No,No
+58,R&D,HR Specialist,4,3,5618,29,1,No,No
+52,HR,Engineer,5,2,12603,5,17,No,No
+18,R&D,HR Specialist,4,2,9928,16,15,No,No
+38,R&D,HR Specialist,3,1,8368,38,11,Yes,Yes
+23,R&D,HR Specialist,4,3,7621,24,6,Yes,No
+45,R&D,Engineer,3,4,17719,4,6,No,No
+34,Sales,HR Specialist,1,2,14126,4,16,Yes,Yes
+22,Sales,Sales Executive,4,4,10566,19,12,Yes,No
+48,HR,Manager,5,4,15306,15,10,Yes,No
+22,Sales,Manager,3,2,18086,36,5,No,Yes
+55,Sales,HR Specialist,5,2,12890,39,13,No,No
+20,HR,Manager,2,2,11095,8,5,No,No
+40,HR,Engineer,3,2,15719,4,5,No,No
+54,HR,Engineer,4,3,13283,1,1,No,Yes
+54,Sales,Manager,3,3,17231,8,19,Yes,No
+27,Sales,Engineer,5,3,17698,35,14,No,No
+27,HR,Manager,1,3,8184,21,16,Yes,No
+36,R&D,Manager,3,1,5402,21,7,No,No
+34,HR,Manager,4,3,7895,21,4,Yes,No
+38,R&D,HR Specialist,2,2,14404,33,16,No,No
+31,R&D,Manager,1,4,18161,28,19,No,No
+26,HR,HR Specialist,2,3,12343,37,0,No,No
+18,HR,Manager,3,1,13637,32,17,No,No
+30,HR,Manager,5,2,4956,17,14,No,No
+21,Sales,Manager,5,4,10023,6,4,No,No
+18,R&D,Engineer,4,4,17062,0,6,Yes,Yes
+57,Sales,HR Specialist,5,3,17333,32,17,No,No
+49,Sales,HR Specialist,1,4,6907,0,5,Yes,No
+51,HR,Manager,5,3,3807,23,4,No,No
+45,Sales,Manager,4,3,17031,3,18,Yes,No
+48,HR,Engineer,3,2,7827,3,9,Yes,Yes
+25,R&D,Engineer,3,2,16699,17,14,Yes,No
+56,HR,Engineer,5,1,7524,26,9,Yes,Yes
+43,Sales,HR Specialist,2,2,18193,31,15,Yes,No
+51,Sales,HR Specialist,3,2,19223,32,11,Yes,No
+20,HR,HR Specialist,5,3,8313,27,17,No,No
+29,HR,Manager,4,2,16598,35,0,Yes,No
+18,Sales,HR Specialist,5,3,16058,5,15,No,No
+22,R&D,Sales Executive,3,3,7887,15,5,No,No
+47,R&D,Sales Executive,4,2,6854,33,2,Yes,Yes
+47,HR,Engineer,5,1,15458,22,1,Yes,Yes
+34,R&D,HR Specialist,1,1,17536,23,1,No,No
+40,Sales,Sales Executive,4,4,6558,12,12,Yes,No
+32,HR,Engineer,1,4,12772,17,8,Yes,No
+54,Sales,HR Specialist,2,2,6575,12,15,Yes,No
+38,Sales,Manager,4,1,5418,36,4,Yes,No
+31,R&D,Sales Executive,1,3,7198,38,6,Yes,No
+19,HR,Manager,3,4,4001,16,12,Yes,No
+28,HR,HR Specialist,3,3,10119,14,19,Yes,Yes
+56,R&D,Sales Executive,2,4,12673,17,12,No,Yes
+55,Sales,HR Specialist,4,2,8316,22,6,Yes,No
+51,Sales,Manager,4,1,19244,29,9,No,No
+55,Sales,Sales Executive,4,4,19806,33,14,No,No
+51,Sales,Manager,2,1,14873,3,5,No,Yes
+35,HR,HR Specialist,4,3,7266,2,4,No,No
+47,HR,HR Specialist,3,2,10549,6,1,Yes,No
+32,R&D,Manager,1,1,13589,17,14,No,No
+44,R&D,Sales Executive,3,2,4657,6,15,No,No
+51,HR,Manager,3,1,9763,39,18,No,No
+55,HR,HR Specialist,1,3,6164,5,8,No,No
+50,Sales,Manager,3,3,11479,21,18,No,Yes
+41,Sales,HR Specialist,2,2,8737,0,6,Yes,Yes
+32,R&D,Manager,1,3,9009,3,3,Yes,No
+47,HR,Sales Executive,3,4,19991,28,2,No,No
+59,R&D,Sales Executive,5,1,7552,20,19,Yes,No
+34,HR,Manager,3,3,12417,25,10,Yes,No
+22,Sales,Manager,2,4,12221,13,0,No,No
+46,R&D,Sales Executive,4,2,5671,8,5,No,Yes
+21,R&D,HR Specialist,3,4,9519,11,10,No,No
+27,HR,Sales Executive,4,2,6962,5,0,Yes,No
+34,Sales,HR Specialist,5,2,15734,19,6,No,No
+27,R&D,Manager,3,1,16122,23,5,Yes,No
+34,Sales,Manager,1,1,6722,26,13,Yes,No
+37,R&D,HR Specialist,4,4,7906,37,1,Yes,Yes
+41,Sales,Manager,5,1,10263,7,3,No,No
+22,HR,HR Specialist,1,1,16699,0,10,Yes,No
+51,R&D,Engineer,1,1,14088,23,14,No,No
+23,R&D,Sales Executive,1,4,3808,6,17,No,Yes
+19,Sales,Engineer,1,3,12170,18,0,No,No
+30,Sales,HR Specialist,3,1,19260,21,2,No,No
+28,R&D,Sales Executive,3,1,13693,34,2,No,No
+40,HR,HR Specialist,3,4,10701,29,6,Yes,No
+33,Sales,Sales Executive,5,3,17191,28,0,Yes,No
+48,Sales,Sales Executive,5,1,16704,21,10,Yes,No
+28,Sales,Sales Executive,5,2,5123,10,5,Yes,No
+33,R&D,Sales Executive,2,4,14533,19,19,Yes,No
+25,R&D,HR Specialist,5,1,19608,28,2,No,Yes
+21,R&D,Sales Executive,3,1,17448,33,18,No,No
+57,R&D,Sales Executive,3,2,17586,0,1,Yes,No
+21,HR,Engineer,2,2,4814,30,17,Yes,Yes
+42,HR,Manager,2,4,16001,29,11,Yes,No
+20,R&D,Manager,5,4,19508,17,9,No,No
+49,HR,Engineer,4,2,16380,16,4,No,No
+20,Sales,Engineer,2,4,18406,37,8,No,No
+44,Sales,HR Specialist,1,2,5931,13,1,Yes,No
+46,Sales,HR Specialist,3,1,16567,22,1,Yes,No
+49,R&D,HR Specialist,1,2,17038,24,5,Yes,No
+36,Sales,Engineer,3,2,15317,14,9,Yes,No
+38,HR,Engineer,3,3,5971,21,17,No,No
+22,R&D,Sales Executive,2,2,5017,2,11,Yes,No
+35,HR,HR Specialist,2,2,5415,18,3,Yes,No
+45,Sales,HR Specialist,1,3,4609,33,16,Yes,No
+59,Sales,HR Specialist,3,4,3717,34,14,No,No
+39,Sales,Manager,1,3,15662,0,5,No,Yes
+38,R&D,Sales Executive,4,1,9782,20,15,Yes,No
+23,HR,HR Specialist,1,3,4048,28,16,No,No
+18,R&D,HR Specialist,5,1,14618,5,2,No,No
+22,R&D,HR Specialist,1,4,11307,36,9,No,Yes
+58,Sales,Manager,5,3,10905,0,4,No,No
+29,R&D,Manager,5,3,12993,0,13,No,No
+43,R&D,Engineer,5,4,13338,26,12,Yes,No
+51,Sales,Sales Executive,4,1,8578,20,5,Yes,No
+31,R&D,Engineer,1,3,16834,15,11,Yes,No
+43,Sales,Sales Executive,1,1,9548,39,7,No,No
+44,Sales,Manager,4,3,10381,25,4,No,No
+26,Sales,HR Specialist,3,2,5941,15,14,No,Yes
+43,Sales,Engineer,2,3,8695,27,15,No,No
+39,R&D,HR Specialist,1,4,9401,0,0,Yes,No
+47,Sales,Engineer,2,4,18179,35,15,Yes,No
+34,Sales,Manager,4,1,17456,9,4,Yes,No
+43,R&D,Manager,3,3,16097,16,2,Yes,No
+53,R&D,Manager,3,1,9197,22,19,Yes,No
+18,HR,Engineer,3,1,8450,6,14,Yes,No
+25,R&D,Sales Executive,4,2,11378,6,12,No,No
+52,R&D,Engineer,5,2,4881,14,15,No,Yes
+32,HR,Sales Executive,5,4,9799,33,10,Yes,No
+39,R&D,Engineer,2,1,17597,3,1,No,Yes
+31,R&D,Engineer,5,4,16675,13,5,Yes,No
+43,R&D,Manager,5,3,7586,13,5,Yes,Yes
+45,R&D,HR Specialist,3,1,11430,15,13,No,Yes
+40,HR,HR Specialist,3,1,5345,6,10,Yes,No
+31,R&D,Sales Executive,2,3,19459,31,7,Yes,No
+41,R&D,HR Specialist,1,3,12548,18,7,Yes,No
+19,HR,Engineer,2,4,8877,1,0,No,Yes
+43,Sales,Engineer,2,4,9785,9,6,No,No
+31,HR,Manager,4,3,18833,16,5,No,Yes
+24,Sales,Manager,4,4,7922,36,7,No,No
+20,HR,HR Specialist,2,3,7686,11,18,Yes,No
+40,HR,Sales Executive,2,1,17407,5,19,No,No
+35,R&D,HR Specialist,2,1,15205,21,7,No,No
+55,Sales,HR Specialist,5,2,16179,31,13,No,No
+52,R&D,HR Specialist,4,1,19524,19,17,Yes,No
+32,Sales,HR Specialist,2,3,3016,0,15,No,No
+42,HR,Engineer,3,4,16374,5,8,No,No
+54,HR,Sales Executive,3,2,19848,18,14,Yes,No
+45,Sales,Engineer,5,4,8956,17,9,Yes,Yes
+27,R&D,Sales Executive,5,3,19473,5,15,Yes,No
+56,R&D,Manager,1,1,7815,32,3,Yes,No
+34,R&D,HR Specialist,1,2,5843,22,19,No,No
+56,R&D,Engineer,1,3,18972,22,12,Yes,Yes
+39,HR,Sales Executive,5,2,4094,25,4,No,Yes
+43,HR,Manager,5,2,9124,12,6,No,No
+42,HR,Manager,5,1,4404,6,8,No,No
+34,HR,HR Specialist,3,3,6982,14,7,No,Yes
+30,HR,Sales Executive,5,4,15515,26,15,No,No
+37,R&D,Engineer,3,2,18790,25,5,Yes,No
+42,R&D,HR Specialist,1,2,15205,32,15,No,No
+21,R&D,Engineer,1,4,15748,14,5,No,Yes
+27,R&D,Manager,1,3,6092,35,13,No,No
+20,HR,Engineer,2,2,16971,26,0,Yes,No
+58,HR,Engineer,2,2,17616,4,8,No,Yes
+35,HR,HR Specialist,4,2,7933,1,12,No,No
+53,Sales,Engineer,4,3,7926,32,18,Yes,No
+39,R&D,HR Specialist,4,3,6969,15,16,No,No
+51,R&D,Manager,2,4,5965,22,10,No,No
+25,HR,HR Specialist,2,3,7319,37,7,Yes,Yes
+57,R&D,HR Specialist,4,3,11975,15,4,No,Yes
+36,R&D,Sales Executive,4,1,10108,13,9,No,No
+59,HR,Engineer,5,4,12141,28,6,No,No
+58,Sales,Manager,4,2,19428,25,9,No,No
+54,Sales,HR Specialist,5,3,4810,34,3,No,No
+23,Sales,Manager,3,2,13273,14,8,Yes,No
+43,HR,Sales Executive,2,2,12021,2,13,Yes,No
+51,R&D,Engineer,4,1,9364,22,1,Yes,Yes
+23,HR,HR Specialist,2,3,5581,28,8,No,No
+54,HR,Engineer,2,4,3691,33,0,No,No
+50,R&D,Sales Executive,2,3,3931,32,9,No,No
+39,Sales,Sales Executive,3,2,16128,22,9,Yes,Yes
+38,Sales,Manager,1,4,17226,6,19,No,No
+23,HR,HR Specialist,4,3,16861,2,2,No,No
+23,Sales,Manager,1,2,18475,31,5,No,No
+21,HR,Sales Executive,1,2,6406,30,5,Yes,Yes
+47,HR,Engineer,1,1,11339,17,1,Yes,No
+28,R&D,Manager,2,1,11579,6,17,No,No
+47,R&D,Manager,5,1,6121,0,1,No,No
+48,R&D,Engineer,2,2,18946,13,11,No,No
+41,HR,Manager,2,3,6748,31,4,Yes,Yes
+26,R&D,Engineer,1,1,3277,5,19,Yes,No
+20,Sales,HR Specialist,2,3,14563,38,6,Yes,No
+48,Sales,Engineer,1,1,9792,9,15,No,No
+57,HR,HR Specialist,5,4,16918,6,19,Yes,No
+54,HR,Engineer,4,4,13374,25,0,No,No
+53,R&D,Sales Executive,1,1,7675,33,0,No,No
+41,HR,Sales Executive,5,2,4170,29,16,Yes,Yes
+48,HR,HR Specialist,4,1,11681,35,0,No,No
+23,Sales,HR Specialist,3,1,13717,20,19,Yes,No
+19,Sales,Sales Executive,1,2,15450,16,12,No,No
+37,R&D,HR Specialist,1,4,13680,32,8,No,No
+45,HR,Engineer,3,3,13068,9,14,Yes,No
+28,HR,Engineer,3,1,5462,11,2,No,Yes
+21,Sales,Sales Executive,1,2,16650,15,13,No,No
+32,HR,Manager,3,1,3287,31,10,No,Yes
+23,Sales,Engineer,2,2,4161,14,11,No,No
+47,R&D,HR Specialist,4,3,19513,26,12,No,No
+55,Sales,Manager,4,3,5363,27,12,No,No
+19,HR,Manager,4,4,8983,16,0,No,No
+32,R&D,Engineer,2,2,19527,1,9,No,No
+28,Sales,Engineer,3,2,11207,35,2,Yes,No
+25,Sales,Manager,5,4,17758,6,3,Yes,No
+43,R&D,Manager,3,4,3244,12,15,No,No
+22,R&D,Sales Executive,1,2,6178,14,7,No,No
+23,Sales,HR Specialist,4,4,5176,24,15,Yes,Yes
+43,HR,Sales Executive,3,3,8002,22,16,No,No
+21,Sales,Engineer,5,1,3886,21,18,Yes,No
+36,R&D,Sales Executive,1,3,16721,25,14,Yes,No
+37,Sales,Sales Executive,2,4,15142,32,15,Yes,No
+50,R&D,Sales Executive,2,2,5654,10,14,No,No
+37,R&D,Sales Executive,5,2,14984,9,1,No,No
+29,HR,HR Specialist,1,3,10135,24,10,No,No
+18,R&D,HR Specialist,4,2,3320,36,0,Yes,No
+43,R&D,Manager,3,4,7654,37,14,Yes,No
+31,HR,Engineer,1,3,19131,23,18,Yes,No
+55,R&D,Sales Executive,2,2,13770,39,3,No,No
+54,HR,Manager,5,1,9553,32,10,Yes,No
+28,HR,Manager,5,1,14559,16,4,Yes,No
+53,R&D,Manager,3,4,12009,23,2,No,Yes
+30,R&D,HR Specialist,5,2,16482,36,12,Yes,No
+20,Sales,Sales Executive,5,4,10498,1,9,Yes,No
+50,HR,Sales Executive,1,3,9636,31,10,No,No
+23,Sales,Engineer,4,1,10362,23,17,No,No
+27,R&D,Sales Executive,3,3,19395,8,1,Yes,No
+22,Sales,Sales Executive,1,2,19578,3,6,No,No
+40,HR,Manager,4,4,5537,16,8,Yes,No
+27,Sales,Engineer,1,4,18216,16,9,No,No
+19,HR,Sales Executive,1,4,6009,29,17,Yes,Yes
+30,R&D,HR Specialist,5,3,17209,39,6,No,No
+57,R&D,Sales Executive,4,1,18675,10,6,Yes,No
+19,HR,Manager,3,3,18029,20,2,No,No
+37,R&D,HR Specialist,3,3,5077,20,11,No,No
+18,R&D,Manager,4,2,16907,17,6,No,No
+54,R&D,Sales Executive,5,2,6867,28,16,No,No
+26,R&D,HR Specialist,2,2,19152,23,0,No,No
+34,HR,Engineer,1,1,7873,9,4,No,No
+26,Sales,Engineer,5,1,11635,16,15,No,No
+28,Sales,HR Specialist,4,2,3297,17,14,Yes,No
+32,R&D,HR Specialist,1,2,16095,19,1,Yes,No
+41,Sales,Manager,3,1,12036,36,8,No,No
+55,Sales,HR Specialist,2,4,4015,17,6,No,No
+52,R&D,Manager,3,1,4384,16,3,Yes,No
+47,R&D,Sales Executive,4,1,11745,8,19,Yes,No
+48,Sales,Manager,1,1,4260,13,17,No,No
+22,HR,HR Specialist,4,2,10701,28,3,Yes,No
+31,R&D,HR Specialist,1,4,13401,30,12,Yes,No
+28,HR,Sales Executive,5,1,18519,3,0,No,Yes
+26,Sales,HR Specialist,2,2,14864,17,2,No,No
+51,R&D,HR Specialist,5,3,18681,19,15,No,No
+29,HR,Engineer,5,3,8543,8,3,Yes,Yes
+52,R&D,Engineer,4,1,15488,12,15,No,No
+52,Sales,Sales Executive,2,3,13079,14,18,No,No
+18,HR,Manager,1,4,13744,26,0,Yes,No
+57,Sales,Engineer,1,3,6809,14,4,No,No
+39,Sales,Manager,3,3,10206,27,18,Yes,Yes
+46,R&D,HR Specialist,1,4,16746,36,10,Yes,No
+25,HR,Engineer,4,1,18995,18,12,Yes,Yes
+28,Sales,Sales Executive,5,1,19035,25,19,Yes,No
+58,Sales,Sales Executive,5,4,14671,25,4,Yes,Yes
+54,HR,Sales Executive,5,4,16210,24,3,Yes,No
+31,Sales,Engineer,2,4,8197,25,3,No,No
+47,Sales,Manager,1,3,18553,25,3,No,No
+52,HR,HR Specialist,4,4,10452,27,3,No,No
+38,HR,Manager,2,2,11718,17,19,Yes,No
+54,HR,Manager,3,3,17859,31,17,No,Yes
+22,HR,HR Specialist,4,1,5172,2,17,Yes,No
+36,R&D,HR Specialist,4,1,16158,1,15,No,No
+31,HR,Engineer,4,1,19663,32,8,Yes,Yes
+43,R&D,Engineer,5,3,14085,18,17,No,No
+21,R&D,Engineer,4,2,6981,16,1,Yes,No
+42,R&D,Engineer,1,4,8247,32,3,No,No
+59,Sales,Engineer,4,4,13553,11,11,Yes,No
+42,R&D,HR Specialist,5,1,9135,2,6,No,No
+35,R&D,Manager,4,1,8573,25,14,Yes,No
+57,Sales,Engineer,3,3,16731,34,6,No,No
+25,Sales,Engineer,3,2,10189,7,16,No,Yes
+56,Sales,Manager,5,4,17541,35,15,No,No
+57,HR,Engineer,1,3,13878,6,18,Yes,No
+31,Sales,Manager,1,4,14087,35,8,Yes,No
+49,Sales,Manager,2,1,16667,15,13,Yes,No
+55,R&D,HR Specialist,5,4,5776,23,16,Yes,Yes
+50,Sales,Sales Executive,4,2,12311,0,4,Yes,No
+40,HR,HR Specialist,5,2,10697,24,1,No,No
+32,Sales,Sales Executive,2,1,17629,9,19,Yes,Yes
+50,HR,Sales Executive,5,2,11386,15,15,No,No
+42,Sales,Sales Executive,5,2,11044,15,13,No,Yes
+34,Sales,Engineer,2,3,12615,7,13,Yes,No
+50,Sales,HR Specialist,1,4,18034,28,0,No,No
+19,Sales,Sales Executive,4,1,8060,38,2,Yes,No
+31,HR,Manager,2,1,13900,27,6,Yes,No
+57,HR,Engineer,3,1,8581,5,14,Yes,No
+57,R&D,HR Specialist,1,1,5014,15,18,No,No
+56,HR,Sales Executive,3,1,15997,19,19,Yes,No
+23,Sales,Manager,1,2,13635,15,1,Yes,No
+23,R&D,HR Specialist,4,3,16648,6,18,Yes,No
+20,R&D,HR Specialist,4,1,10148,13,8,No,Yes
+24,R&D,Engineer,5,3,17022,25,18,Yes,No
+25,Sales,HR Specialist,3,3,8919,25,4,No,No
+59,HR,Engineer,1,2,18886,13,17,No,Yes
+32,Sales,Sales Executive,4,1,9638,6,15,Yes,No
+46,R&D,Engineer,2,2,7651,32,3,No,No
+50,Sales,Manager,4,1,3609,25,11,No,Yes
+47,Sales,Engineer,2,2,10940,19,6,Yes,No
+56,HR,Manager,1,3,13348,2,13,Yes,No
+44,HR,Engineer,4,1,6866,3,11,Yes,No
+53,R&D,HR Specialist,4,4,19755,25,2,No,No
+46,Sales,Sales Executive,1,3,19999,10,4,Yes,No
+55,Sales,Manager,4,4,5253,1,16,No,No
+50,HR,Engineer,2,3,7942,13,9,No,No
+54,Sales,Engineer,4,2,15330,29,9,No,Yes
+44,Sales,Engineer,3,1,3864,11,10,No,Yes
+50,Sales,HR Specialist,5,3,4268,25,16,No,No
+21,HR,HR Specialist,2,2,10454,32,4,Yes,No
+39,R&D,Manager,3,1,16666,12,12,Yes,No
+19,R&D,Manager,1,1,15370,13,9,No,Yes
+27,Sales,HR Specialist,2,3,8229,23,8,No,No
+22,R&D,Manager,5,1,19309,33,16,Yes,Yes
+27,HR,Sales Executive,5,3,7054,25,0,Yes,No
+50,HR,Sales Executive,1,1,3935,20,3,No,Yes
+55,R&D,HR Specialist,1,4,15172,27,3,No,Yes
+30,R&D,Manager,2,2,13530,35,17,Yes,No
+48,Sales,Engineer,4,4,18560,39,8,Yes,No
+53,R&D,Sales Executive,1,3,19156,1,17,No,No
+41,Sales,HR Specialist,4,4,19709,8,13,Yes,No
+32,Sales,Manager,3,3,12726,22,14,Yes,No
+46,HR,HR Specialist,5,1,10774,14,5,No,No
+25,HR,Engineer,4,1,4985,12,9,No,Yes
+22,HR,Sales Executive,5,3,17252,22,14,No,No
