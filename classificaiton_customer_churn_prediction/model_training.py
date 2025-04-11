@@ -14,7 +14,9 @@ df = pd.read_csv("customer_churn.csv")
 
 # Data Cleaning
 df["TotalCharges"] = pd.to_numeric(df["TotalCharges"], errors="coerce")
-df["TotalCharges"].fillna(df["TotalCharges"].median(), inplace=True)
+#df["TotalCharges"].fillna(df["TotalCharges"].median(), inplace=True)
+df.fillna({"TotalCharges": df["TotalCharges"].median()}, inplace=True)
+
 
 # Prepare features and target
 X = df.drop(columns=["Churn"])
@@ -37,6 +39,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, stratif
 models = {
     "RandomForest": RandomForestClassifier(n_estimators=100, random_state=42),
     "LogisticRegression": LogisticRegression(max_iter=1000),
+    #"XGBoost": XGBClassifier(use_label_encoder=False, eval_metric='logloss')
     "XGBoost": XGBClassifier(use_label_encoder=False, eval_metric='logloss')
 }
 
@@ -50,3 +53,4 @@ for name, model in models.items():
 
 # Save features
 joblib.dump(X.columns.tolist(), "churn_features.pkl")
+print("Model training complete. Models saved as .pkl files.")
