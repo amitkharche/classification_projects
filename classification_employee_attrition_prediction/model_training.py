@@ -46,3 +46,5 @@ print(classification_report(y_test, y_pred))
 # Save Model and Features
 joblib.dump(pipeline, "attrition_model.pkl")
 joblib.dump(X.columns.tolist(), "attrition_features.pkl")
+print("\nModel and features saved successfully.")
+
