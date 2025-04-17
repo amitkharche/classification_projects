@@ -84,7 +84,7 @@ Each model is trained using a **scikit-learn `Pipeline`** to ensure standardized
 
 Each model is wrapped in a scikit-learn `Pipeline` to include preprocessing and training:
 
-\`\`\`python
+```
 Pipeline([
     ("preprocessor", ColumnTransformer([
         ("num", StandardScaler(), numeric_features),
@@ -92,7 +92,7 @@ Pipeline([
     ])),
     ("classifier", model)
 ])
-\`\`\`
+```
 
 ### 4. **Model Saving**
 
@@ -104,15 +104,15 @@ All models are saved as `.pkl` files using `joblib`.
 
 ### 🔧 Step 1: Install Dependencies
 
-\`\`\`bash
+```
 pip install -r requirements.txt
-\`\`\`
+```
 
 ### 📈 Step 2: Train Models
 
-\`\`\`bash
+```
 python model_training.py
-\`\`\`
+```
 
 This will generate:
 - `randomforest_churn_model.pkl`
@@ -122,9 +122,9 @@ This will generate:
 
 ### 🖥️ Step 3: Run Streamlit App (Optional)
 
-\`\`\`bash
+```
 streamlit run app.py
-\`\`\`
+```
 
 This will launch a browser-based UI for making churn predictions interactively.
 
@@ -134,13 +134,13 @@ This will launch a browser-based UI for making churn predictions interactively.
 
 Below are the main dependencies:
 
-\`\`\`text
+```text
 pandas
 scikit-learn
 xgboost
 joblib
 streamlit
-\`\`\`
+```
 
 *(Full list in \`requirements.txt\`)*
 
@@ -164,4 +164,4 @@ streamlit
 
 ## 📬 Contact
 
-If you have questions or want to collaborate, feel free to connect with me on [LinkedIn](https://linkedin.com).
+If you have questions or want to collaborate, feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/amit-kharche).
