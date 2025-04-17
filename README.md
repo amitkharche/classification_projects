@@ -12,7 +12,7 @@ Each folder is a standalone classification project with its own dataset, modelin
 ```
 classification_projects/
 ├── Classification_loan_default_risk_project/
-├── classificaiton_customer_churn_prediction/
+├── classification_customer_churn_prediction/
 ├── classification_email_spam_detection_project/
 └── classification_employee_attrition_prediction/
 ```
@@ -96,7 +96,6 @@ streamlit run app.py
 ## 📬 Contact
 
 **Amit Kharche**  
-📧 Email: amit@example.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/amitkharche)
 
 ---
