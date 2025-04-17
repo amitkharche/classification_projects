@@ -22,28 +22,28 @@ classification_projects/
 ## 🚀 Project Overviews
 
 ### 🔐 [Loan Default Risk Prediction](./Classification_loan_default_risk_project)
-- Binary classification to predict loan repayment default
-- Feature engineering, scaling, and ensemble modeling (RandomForest/XGBoost)
-- Includes model interpretability using SHAP
-- Streamlit app for borrower risk scoring
+- Predicts loan default risk using customer financial and loan profile data
+- Random Forest classifier with preprocessing pipeline for scaling and encoding
+- Numerical and categorical features include loan amount, interest rate, income, and debt-to-income ratio
+- Model saved as a .pkl file along with feature names for deployment in Streamlit or production systems
 
 ### 🔁 [Customer Churn Prediction](./classificaiton_customer_churn_prediction)
-- Predicts if a customer is likely to churn based on usage, contract, and demographics
-- Logistic Regression, Decision Tree, and XGBoost models
-- SMOTE for class imbalance, GridSearch for tuning
-- Streamlit UI for churn prediction
+- Predicts if a customer is likely to churn based on usage patterns, billing information, and service features
+- Logistic Regression, Random Forest, and XGBoost models
+- Preprocessing pipeline with scaling and one-hot encoding
+- Models saved as .pkl files for deployment in Streamlit UIPredicts if a customer is likely to churn based on usage, contract, and demographics
 
 ### 📧 [Email Spam Detection](./classification_email_spam_detection_project)
-- NLP-based binary classifier for spam vs. ham emails
-- Text preprocessing, TF-IDF vectorization, Naïve Bayes & Logistic Regression
-- Model evaluation with Precision, Recall, F1-score
-- Simple UI to test your own email text
+- Classifies emails as spam or not spam using text-based features
+- TF-IDF vectorization of email content for feature extraction
+- Random Forest model trained with class weighting to handle imbalance
+- Pipeline includes vectorization and classification, saved for deployment in Streamlit UI
 
 ### 👨‍💼 [Employee Attrition Prediction](./classification_employee_attrition_prediction)
-- HR analytics project to predict attrition risk
-- Exploratory Data Analysis with Seaborn, CatBoost model training
-- Model evaluation and deployment-ready Streamlit UI
-- Feature importance for HR decisions
+- Predicts whether an employee is likely to leave the organization using HR data
+- Random Forest classifier with preprocessing pipeline for scaling and one-hot encoding
+- Numerical and categorical features include age, education, job satisfaction, income, and tenure
+- Model saved as a .pkl pipeline and ready for deployment in a Streamlit dashboard
 
 ---
 
