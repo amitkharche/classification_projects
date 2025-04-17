@@ -53,7 +53,7 @@ Each model is trained using a **scikit-learn `Pipeline`** to ensure standardized
 
 ## ⚙️ Project Structure
 
-\`\`\`
+```
 ├── churn_features.pkl                 # List of input features used during training
 ├── customer_churn.csv                # Input dataset
 ├── logisticregression_churn_model.pkl # Trained Logistic Regression model
@@ -63,7 +63,7 @@ Each model is trained using a **scikit-learn `Pipeline`** to ensure standardized
 ├── app.py                            # Streamlit app (optional for deployment)
 ├── requirements.txt                  # Python dependencies
 └── README.md                         # Project documentation
-\`\`\`
+```
 
 ---
 
