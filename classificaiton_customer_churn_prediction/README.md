@@ -1,5 +1,4 @@
 
-
 # 📊 Customer Churn Prediction
 
 A machine learning solution to predict **customer churn** based on service usage and demographic data in the telecom industry. This enables businesses to **retain customers** through proactive interventions.
@@ -67,7 +66,6 @@ Each model is trained using a **scikit-learn `Pipeline`** to ensure standardized
 \`\`\`
 
 ---
-
 
 ## 🏗️ Pipeline Steps
 
